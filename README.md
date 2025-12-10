@@ -18,3 +18,9 @@ The features included in the program are:
    The program can analyze word(s) that match the programmed keyword to be showed in the output.
 7. Frequently occuring word sorter
    The program will sort the word(s) that matched the programmed keyword and order it from the most to the least occuring word.
+
+# How To Run the Program:
+1. Run the code in C++ language
+2. You will be asked to input how many feedback you will add. Input the amount as you intended.
+3. Input the feedback in one long line or add it one by one.
+4. The result will be showed right after you inputed the intended amount of feedback.
